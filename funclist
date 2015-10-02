@@ -1,0 +1,19 @@
+_set_lcd_e: CODE, 1096 0 12
+_set_lcd_rs: CODE, 1084 0 12
+_lcd_2ndline: CODE, 1062 0 11
+_set_lcd_data: CODE, 1046 0 6
+_lcd_putstr: CODE, 1362 0 65
+_lcd_putchar: CODE, 1108 0 12
+_lcd_initialize: CODE, 1252 0 51
+_main: CODE, 1643 0 154
+_lcd_clear: CODE, 1052 0 10
+___lwdiv: CODE, 1565 0 78
+_lcd_bcd: CODE, 1797 0 251
+_send_lcd_data: CODE, 1202 0 50
+_spiread: CODE, 1303 0 59
+___lwmod: CODE, 1427 0 68
+_initialize: CODE, 1134 0 26
+_readCelsius: CODE, 1495 0 70
+_lcd_home: CODE, 1073 0 11
+___wmul: CODE, 1160 0 42
+Total: 988
